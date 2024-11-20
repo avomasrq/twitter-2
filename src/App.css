@@ -1,0 +1,22 @@
+.App {
+  font-family: 'Roboto', sans-serif;
+  margin: auto;
+  width: 80%;
+}
+
+.vertical-divider {
+  width: 2px;
+  height: auto;
+  background-color: whitesmoke;
+}
+
+
+/* body {
+  background-color: black;
+  color: white; 
+}
+
+.App {
+  text-align: center;
+  padding: 20px;
+} */
